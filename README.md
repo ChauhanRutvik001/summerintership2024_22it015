@@ -28,6 +28,9 @@ Implementation:
 Implemented the Login module, allowing users to log in and be redirected to their respective pages based on roles.
 Developed the Registration module, enabling users to create new accounts.
 
+![image](https://github.com/user-attachments/assets/fb2d583b-22b6-432a-8854-db2ef1507f0e)
+
+
 # Week 3: Profile Page and User Management
 Learning and Exploration:
 
@@ -37,6 +40,8 @@ Implementation:
 
 Created the Profile Page module, displaying data for students, parents, counselors, and administrators.
 Developed the Counsellor, Parent, and Student List module, managing lists of counselors, parents, and students.
+![image](https://github.com/user-attachments/assets/7ec3829a-6233-45d5-8f1d-102add39107f)
+
 
 # Week 4: Notice Board and Support System
 Learning and Exploration:
