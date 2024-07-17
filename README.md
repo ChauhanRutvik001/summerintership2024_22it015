@@ -53,6 +53,9 @@ Implementation:
 Created the Notice Board module, allowing administrators to post announcements and students to view them.
 Developed the Support Page module, providing solutions and assistance for resolving login and registration issues efficiently.
 
+![image](https://github.com/user-attachments/assets/7f53651d-32d0-4bde-bc9c-29e953d5804f)
+
+
 # Week 5: Food Page
 Learning and Exploration:
 
@@ -61,6 +64,9 @@ Explored techniques for creating an interactive food management system.
 Implementation:
 
 Created the Food Page module, allowing managers to view and update daily meal menus based on student choices.
+
+![image](https://github.com/user-attachments/assets/7e51ead1-bc35-4bbe-8ee9-e7582c52b042)
+
 
 # Week 6: Student, Parent, and Counselor Lists and Profiles in Manager Page
 Learning and Exploration:
@@ -81,6 +87,9 @@ Implementation:
 Created the New Admission module to handle the student admission process.
 Conducted thorough testing of all modules.
 Collected feedback from initial users and made necessary improvements.
+
+![image](https://github.com/user-attachments/assets/ff00bb43-9aa7-42f4-8377-e37d314e7d51)
+
 
 # 🌟 Summary
 Throughout the internship, I successfully completed multiple modules of the hostel management website, demonstrated proficiency in web development, user interface design, and collaborative project execution, and gained valuable experience in developing user-centric applications. This detailed breakdown showcases my ability to manage and execute multiple projects efficiently, along with continuous learning and application of new skills.
